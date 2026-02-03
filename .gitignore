@@ -1,0 +1,31 @@
+# .gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 环境变量（包含敏感信息）
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.claude/
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.log
+*.tmp
+nul
+
+# 生成的报告（可选，如果想保留报告可以删除这行）
+*_Report_*.md
+LLM_Survey_by_Claude.md
+MCP_Demo_Report_*.md
