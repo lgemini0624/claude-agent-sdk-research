@@ -140,11 +140,6 @@ result = await agent.run(instruction)
 - [Claude Tool Use 指南](https://docs.anthropic.com/claude/docs/tool-use)
 - [Model Context Protocol](https://modelcontextprotocol.io)
 
-## 📝 许可证
-
-MIT License
-
-## 👤 作者
 
 [你的名字] - Claude Agent SDK 调研项目
 
